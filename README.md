@@ -1,1 +1,1 @@
-This project is implemented using nodejs and the Express framework, using Potsgress as the database.
+This project is implemented using Node.js and the Express framework, with PostgreSQL as the database.
